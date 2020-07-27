@@ -1,1 +1,3 @@
-this is md file
+<script>
+  alert("hello");
+  </script>
